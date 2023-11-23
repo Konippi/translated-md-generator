@@ -17,6 +17,5 @@
       "matchUpdateTypes": ["minor", "patch"],
       "matchPackagePatterns": ["eslint"]
     }
-  ],
-  "enabledManagers": ["pnpm", "github-actions"]
+  ]
 }
